@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @vipin
-- 👀 I’m interested creating new softwares
 - 🌱 I’m currently learning js
 - 📫 How to reach me ..
 https://www.linkedin.com/in/vipin-saileshwaran-k-6b177920b/
