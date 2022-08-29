@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vipin
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning full stack developer in java
 - 📫 How to reach me ..
 https://www.linkedin.com/in/vipin-saileshwaran-k-6b177920b/
 vipinsaileshwarankk@gmail.com
